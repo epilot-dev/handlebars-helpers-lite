@@ -1,6 +1,6 @@
 # handlebars-helpers-lite
 
-Common [handlebars-helpers](https://github.com/helpers/handlebars-helpers) (source: [handlebars-kit](https://github.com/oneflow/handlebars-kit)) built for the browser with webpack.
+Common [handlebars-helpers](https://github.com/helpers/handlebars-helpers) (source: [handlebars-kit](https://github.com/oneflow/handlebars-kit)) minimized and built with webpack.
 
 ## Usage
 

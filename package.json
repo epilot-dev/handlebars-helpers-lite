@@ -1,7 +1,7 @@
 {
   "name": "handlebars-helpers-lite",
   "version": "0.1.0",
-  "description": "Common [handlebars-helpers](https://github.com/helpers/handlebars-helpers) (source: [handlebars-kit](https://github.com/oneflow/handlebars-kit)) built for the browser with webpack.",
+  "description": "Common handlebars-helpers minimized and built with webpack.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
