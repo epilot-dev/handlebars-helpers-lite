@@ -1,7 +1,7 @@
 # handlebars-helpers-lite
 
 [![npm version](https://img.shields.io/npm/v/handlebars-helpers-lite.svg)](https://www.npmjs.com/package/handlebars-helpers-lite)
-[![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/epilot-dev/handlebars-helpers-lite/blob/master/LICENSE)
+[![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/epilot-dev/handlebars-helpers-lite/blob/main/LICENSE)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/handlebars-helpers-lite?label=gzip%20bundle)](https://bundlephobia.com/package/handlebars-helpers-lite)
 
 Common [handlebars-helpers](https://github.com/helpers/handlebars-helpers) (source: [handlebars-kit](https://github.com/oneflow/handlebars-kit)) minimized and built with webpack.
