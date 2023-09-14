@@ -71,6 +71,11 @@ date.moment = (str, pattern) => {
 
   // if both args are strings, format the first (date) using the second (format)
   if (typeof str === "string" && typeof pattern === "string") {
+    // backwards compat for "now"
+    if (str === "now") {
+      return moment().format(pattern);
+    }
+
     return moment(str).format(pattern);
   }
 
